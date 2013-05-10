@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifiu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="twitter_consumer_key">nDBvfBqfpzecSJU8NjNA</string>
+    <string name="twitter_consumer_secret">PlEPZhM3dnRafAD3uGtWkbBgCnrli2DAUQyHekY2AI</string>
+    <string name="twitter_oauth">Twitter認証とかとか</string>
+    <string name="twitter_callback_url">gabu://twitter</string>
+
+</resources>
